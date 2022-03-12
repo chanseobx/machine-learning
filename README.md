@@ -14,7 +14,7 @@
   - joint probability
   - conditional probability
     - bayses rule
-      - bayses concept learning, maximum a posterior
+      - bayses concept learning, maximum a posterior method
         - Q. Should you work hard to get A+? VS If you work hard, can you get A+? (These think is base rate fallacy error)
         ![image](https://user-images.githubusercontent.com/90690557/158000827-b5eed6b5-2c04-4e6c-b6a1-2b8844a3e78f.png)
         - Q. Why we confuse this question?
