@@ -1,5 +1,6 @@
 ### types of machine learning
   - supervised      vs unsupervised
+    - traning -> precdiction
   - parametric      vs nonprametric
   - batch           vs online learning
   - discriminative  vs generative
